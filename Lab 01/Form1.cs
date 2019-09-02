@@ -17,32 +17,7 @@ namespace WindowsFormsApplication2
             InitializeComponent();
         }
 
-        private void txtnumber1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtnumber2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblnumber1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblnumber2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblResult_Click(object sender, EventArgs e)
         {
 
         }
